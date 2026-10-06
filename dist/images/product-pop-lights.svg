@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="620"><stop stop-color="#EEE7D7"/><stop offset="1" stop-color="#E2D5BC"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#FFFDF0"/><stop offset=".62" stop-color="#F8F3DC"/><stop offset="1" stop-color="#E8D9B7"/></radialGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h600v620H0z"/>
+  <circle cx="300" cy="279" r="214" fill="#F8F4E7" opacity=".46"/>
+  <ellipse cx="300" cy="529" rx="168" ry="22" fill="#514730" opacity=".13"/>
+  <rect x="118" y="179" width="364" height="235" rx="16" fill="#718275"/>
+  <rect x="131" y="192" width="338" height="209" rx="9" fill="#D9D7C8"/>
+  <rect x="145" y="206" width="310" height="181" rx="6" fill="url(#glow)"/>
+  <path d="M156 222h278M156 371h278" stroke="#FDFBF0" stroke-width="4" opacity=".8"/>
+  <circle cx="300" cy="296" r="70" fill="#FFFEF5"/>
+  <circle cx="300" cy="296" r="54" fill="#FFF9DC"/>
+  <path d="M278 292c14-23 31-23 45 0m-47 20c17-12 35-12 51 0" stroke="#E9D68F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M202 443h196l-17 47H219l-17-47Z" fill="#748276"/>
+  <path d="M244 490h111v23H244z" fill="#495A50"/>
+  <text x="300" y="548" fill="#58634F" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4" text-anchor="middle">POP LED LIGHTS</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="620"><stop stop-color="#E9E5DB"/><stop offset="1" stop-color="#D7D5CA"/></linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C5C9C3"/><stop offset=".5" stop-color="#79827D"/><stop offset="1" stop-color="#D5D7CF"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h600v620H0z"/>
+  <circle cx="480" cy="120" r="76" fill="#F8F5EB" opacity=".72"/>
+  <ellipse cx="302" cy="525" rx="184" ry="25" fill="#343A33" opacity=".14"/>
+  <path d="M119 366h365v127H119z" fill="#B08A58"/>
+  <path d="M137 385h329v93H137z" fill="#D4BA8A"/>
+  <path d="M137 410h329" stroke="#A17D4F" stroke-width="5"/>
+  <path d="M161 431h42v35h-42zm63-10h45v45h-45zm71 7h44v38h-44zm68-13h42v51h-42zm68 16h29v35h-29z" fill="#95784E"/>
+  <g fill="url(#metal)" stroke="#68736D" stroke-width="3">
+    <path d="m175 310 20-111 12 2-12 112-12 15z"/>
+    <path d="m203 194 31-1-1 13-31 1z"/>
+    <path d="m265 321 11-130 13 1-2 129-11 16z"/>
+    <path d="m275 185 35 1-1 13-35-1z"/>
+    <path d="m346 306-6-112 13-1 9 111-10 17z"/>
+    <path d="m338 187 35-2 1 13-35 2z"/>
+  </g>
+  <path d="M400 277a50 50 0 1 1 70 46l-17-24a21 21 0 1 0-30-20l-24 18a50 50 0 0 1 1-20Z" fill="#718077"/>
+  <circle cx="433" cy="284" r="10" fill="#D9D8CC"/>
+  <path d="m130 171 31-18 55 92-31 18z" fill="#B88045"/>
+  <path d="m131 170 29-17 13 21-29 17z" fill="#D7B46D"/>
+  <text x="300" y="553" fill="#4E594F" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4" text-anchor="middle">HARDWARE ESSENTIALS</text>
+</svg>

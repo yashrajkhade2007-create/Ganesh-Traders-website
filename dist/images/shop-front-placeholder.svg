@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1100" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="900" y1="0" x2="900" y2="1100" gradientUnits="userSpaceOnUse"><stop stop-color="#9BAE9F"/><stop offset="1" stop-color="#E6D8BD"/></linearGradient>
+    <linearGradient id="wall" x1="350" y1="340" x2="1440" y2="1000" gradientUnits="userSpaceOnUse"><stop stop-color="#F1EADB"/><stop offset="1" stop-color="#D6C9AF"/></linearGradient>
+    <linearGradient id="glass" x1="900" y1="500" x2="900" y2="960" gradientUnits="userSpaceOnUse"><stop stop-color="#81968A"/><stop offset="1" stop-color="#344F43"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1800v1100H0z"/>
+  <path fill="#687D6D" d="M0 562c190-112 305-104 480-11 176-140 324-123 478-20 189-146 374-135 536 4 115-69 206-65 306-5v570H0V562Z" opacity=".46"/>
+  <path fill="#233A30" d="M0 817c306-55 642-50 940-14 280 34 568 20 860-22v319H0V817Z" opacity=".75"/>
+  <path fill="url(#wall)" d="M313 382h1175v582H313z"/>
+  <path fill="#C0AA88" d="M259 364h1280l-78-179H341l-82 179Z"/>
+  <path fill="#25483A" d="M356 210h1137v84H356z"/>
+  <path fill="#D79A5C" d="m324 294 45 123h156l-27-123h-50l14 77h-65l-22-77h-51Zm336 0 9 123h157l-5-123h-49l2 78h-66l-1-78h-47Zm347 0-10 123h156l28-123h-51l-17 78h-65l6-78h-47Zm336 0-32 123h156l49-123h-53l-29 78h-64l23-78h-50Z"/>
+  <path fill="#F5E8D2" d="M356 417h1137v26H356z"/>
+  <path fill="#415E4E" d="M409 484h359v479H409z"/>
+  <path fill="#D3BD97" d="M429 505h319v14H429z"/>
+  <path fill="#738878" d="M429 539h319v177H429z"/>
+  <path fill="#A9B59F" d="M450 560h277v18H450z"/>
+  <path fill="#DAC99F" d="M450 589h277v17H450z"/>
+  <path fill="#B97742" d="M449 620h77v85h-77z"/>
+  <path fill="#D3B77E" d="M537 606h72v99h-72z"/>
+  <path fill="#B8C19F" d="M619 631h88v74h-88z"/>
+  <path fill="#A77B4B" d="M819 484h333v479H819z"/>
+  <path fill="url(#glass)" d="M841 507h289v456H841z"/>
+  <path fill="#BAC8B6" d="M858 529h90v131h-90z" opacity=".88"/>
+  <path fill="#E0C18A" d="M969 529h142v61H969z"/>
+  <path fill="#B57C4E" d="M969 603h63v97h-63z"/>
+  <path fill="#C7D1BE" d="M1043 611h68v89h-68z"/>
+  <path fill="#E0C18A" d="M858 680h90v73h-90z"/>
+  <path fill="#AE7850" d="M858 768h90v78h-90z"/>
+  <path fill="#D5D5B8" d="M969 727h142v119H969z"/>
+  <path fill="#294236" d="M790 963h393v24H790z"/>
+  <path fill="#EEE4D2" d="M1215 483h196v480h-196z"/>
+  <path fill="#405A49" d="M1242 513h143v179h-143z"/>
+  <path fill="#D9B76D" d="M1260 537h108v14h-108z"/>
+  <path fill="#AB764A" d="M1260 565h108v18h-108z"/>
+  <path fill="#C9D0B9" d="M1260 598h108v67h-108z"/>
+  <path fill="#405A49" d="M1242 715h143v223h-143z"/>
+  <path fill="#D7B873" d="M1258 738h111v12h-111z"/>
+  <path fill="#B47647" d="M1258 764h47v69h-47z"/>
+  <path fill="#C4CDB7" d="M1317 764h52v69h-52z"/>
+  <path fill="#F3E9D8" d="M809 344h577v78H809z"/>
+  <text x="1097.5" y="394" fill="#294337" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="5" text-anchor="middle">GANESH TRADERS</text>
+  <path fill="#294337" d="M361 963h1119v22H361z"/>
+  <path fill="#D2B998" d="M0 985h1800v115H0z"/>
+  <path fill="#B4A185" d="M0 1018h1800v8H0z" opacity=".45"/>
+  <path fill="#B4A185" d="M0 1067h1800v5H0z" opacity=".35"/>
+  <path fill="#23392D" d="M175 204c0-32 26-58 58-58s58 26 58 58-26 58-58 58-58-26-58-58Z" opacity=".72"/>
+  <path fill="#D19A5B" d="M202 205h62l-7-23h-48l-7 23Zm8 9 3 23h40l3-23h-46Z"/>
+  <path fill="#fff" d="M1195 811h92v152h-92z"/>
+  <path fill="#B87443" d="M1207 837h68v27h-68z"/>
+  <path fill="#6D8A70" d="M1207 872h68v48h-68z"/>
+  <text x="1239" y="939" fill="#294337" font-family="Arial,sans-serif" font-size="11" font-weight="700" text-anchor="middle">WELCOME</text>
+</svg>

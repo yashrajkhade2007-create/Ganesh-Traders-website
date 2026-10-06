@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="620"><stop stop-color="#E8E9DF"/><stop offset="1" stop-color="#D4DED2"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#FFFDEB"/><stop offset="1" stop-color="#E7D69F"/></radialGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h600v620H0z"/>
+  <circle cx="473" cy="128" r="79" fill="#F8F6EA" opacity=".7"/>
+  <ellipse cx="301" cy="530" rx="168" ry="23" fill="#344438" opacity=".14"/>
+  <path d="M136 231a65 65 0 1 1 130 0c0 29-18 46-32 67-6 9-9 19-10 31h-46c-1-12-4-22-10-31-14-21-32-38-32-67Z" fill="url(#glow)" stroke="#B9A266" stroke-width="5"/>
+  <path d="M178 330h46m-44 16h42m-34 16h26" stroke="#798579" stroke-width="6" stroke-linecap="round"/>
+  <path d="M357 186h102v162H357z" fill="#6D8072"/>
+  <rect x="371" y="199" width="74" height="133" rx="28" fill="#F8F5E7"/>
+  <path d="M379 212h58" stroke="#FFFDEB" stroke-width="6"/>
+  <path d="M367 351h82v27h-82z" fill="#91A091"/>
+  <path d="M383 378v36m50-36v36" stroke="#687A6C" stroke-width="8"/>
+  <rect x="221" y="381" width="158" height="81" rx="9" fill="#F7F6ED" stroke="#8A998B" stroke-width="5"/>
+  <rect x="238" y="397" width="53" height="47" rx="5" fill="#E4E9DE" stroke="#9CAA9C" stroke-width="4"/>
+  <circle cx="264" cy="420" r="11" fill="#788B7B"/>
+  <rect x="309" y="397" width="53" height="47" rx="5" fill="#E4E9DE" stroke="#9CAA9C" stroke-width="4"/>
+  <path d="M323 421h25m-12-12v24" stroke="#788B7B" stroke-width="5" stroke-linecap="round"/>
+  <text x="300" y="505" fill="#4E6152" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4" text-anchor="middle">LIGHTS &amp; FITTINGS</text>
+</svg>

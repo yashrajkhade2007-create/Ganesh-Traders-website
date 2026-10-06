@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 620">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="620"><stop stop-color="#E8EBDD"/><stop offset="1" stop-color="#D0DCCE"/></linearGradient>
+    <linearGradient id="coil" x1="170" y1="120" x2="430" y2="495"><stop stop-color="#D85D46"/><stop offset="1" stop-color="#A9342A"/></linearGradient>
+  </defs>
+  <path fill="url(#bg)" d="M0 0h600v620H0z"/>
+  <circle cx="475" cy="135" r="85" fill="#F7F5EB" opacity=".7"/>
+  <ellipse cx="302" cy="527" rx="175" ry="24" fill="#273A2C" opacity=".15"/>
+  <circle cx="300" cy="315" r="169" fill="#E3D7C0"/>
+  <circle cx="300" cy="315" r="148" fill="none" stroke="#78382E" stroke-width="32"/>
+  <circle cx="300" cy="315" r="123" fill="none" stroke="url(#coil)" stroke-width="25"/>
+  <circle cx="300" cy="315" r="101" fill="none" stroke="#E36A4D" stroke-width="20"/>
+  <circle cx="300" cy="315" r="81" fill="#F0E8D8"/>
+  <path d="M409 398c32 20 56 48 81 69" stroke="#CB4937" stroke-width="13" stroke-linecap="round"/>
+  <path d="M490 467c10 4 17 12 18 23" stroke="#D8B86D" stroke-width="13" stroke-linecap="round"/>
+  <path d="M477 457h25v19h-25z" fill="#394D43"/>
+  <rect x="215" y="281" width="170" height="67" rx="4" fill="#F7F2E5"/>
+  <text x="300" y="308" fill="#274535" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3" text-anchor="middle">POLYCAB</text>
+  <text x="300" y="332" fill="#7C705B" font-family="Arial,sans-serif" font-size="11" letter-spacing="2" text-anchor="middle">ELECTRICAL WIRE</text>
+</svg>
